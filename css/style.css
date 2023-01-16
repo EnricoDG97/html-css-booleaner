@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    background-color: cornflowerblue;
+    width: 2000px;
+}
+
+header {
+    background-image: url(/img/pattern.png);
+    height: 190px;
+    width: 2000px;
+}
+
+#logo {
+    width: 400px;
+    height: 120px;
+    margin-top: 70px;
+}
+
