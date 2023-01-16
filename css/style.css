@@ -1,20 +1,18 @@
 body {
     margin: 0px;
-    width: 2000px;
 }
 
 header {
     background-image: url(/img/pattern.png);
     height: 190px;
-    width: 2000px;
     background-color: cornflowerblue;
 }
 
 #logo {
     margin-left: 10px;
-    width: 400px;
-    height: 120px;
-    margin-top: 70px;
+    width: 220px;
+    height: 60px;
+    margin-top: 100px;
 }
 
 body main {
@@ -24,31 +22,35 @@ body main {
 }
 
 h1 {
-    font-size: 84px;
+    font-size: 44px;
     margin-bottom: 0px;
     margin-top: 20px;
 }
 
 #title h4 {
-    font-size: 30px;
     color: gray;
     margin: 0px;
 }
 
 .small {
-    font-size: 20px;
+    font-size: 12px;
     margin: 0px;
     color: gray;
 }
 
-strong {
+#thebooleaner {
     color: cornflowerblue;
 }
 
-#images img {
-    width: 48%;
+#images {
+    margin-top: 20px;
 }
 
 #images p {
     margin-top: 0px;
+    font-size: 12px;
+}
+
+#yellowmark {
+    background-color: yellow;
 }
