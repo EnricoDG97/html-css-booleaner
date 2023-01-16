@@ -27,7 +27,7 @@ h1 {
     margin-top: 20px;
 }
 
-#title h4 {
+h4 {
     color: gray;
     margin: 0px;
 }
@@ -65,3 +65,11 @@ th {
     background-color: #b1e5f1;
 }
 
+footer {
+    margin-left: 10px;
+}
+
+#related_searches {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
