@@ -44,3 +44,11 @@ h1 {
 strong {
     color: cornflowerblue;
 }
+
+#images img {
+    width: 48%;
+}
+
+#images p {
+    margin-top: 0px;
+}
