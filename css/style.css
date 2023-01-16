@@ -5,7 +5,7 @@ body {
 header {
     background-image: url(/img/pattern.png);
     height: 190px;
-    background-color: cornflowerblue;
+    background-color: #4ea0ff;
 }
 
 #logo {
@@ -39,7 +39,7 @@ h1 {
 }
 
 #thebooleaner {
-    color: cornflowerblue;
+    color: #4ea0ff;
 }
 
 #images {
@@ -51,6 +51,17 @@ h1 {
     font-size: 12px;
 }
 
-#yellowmark {
+.yellowmark {
     background-color: yellow;
 }
+
+th {
+    width: 24%;
+    color: white;
+    background-color: #20a9e5;
+}
+
+.tr_odd {
+    background-color: #b1e5f1;
+}
+
